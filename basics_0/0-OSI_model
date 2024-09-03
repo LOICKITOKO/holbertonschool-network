@@ -1,5 +1,2 @@
-#!/usr/bin/env bash
-
-#This script writes the correct answers to the OSI model questions into a file
-
-echo "2"
+2
+2
