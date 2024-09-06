@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# TCP and UDP ports listening
-netstat -lp
+# Use netstat to display listening ports
+ss -tunlp | awk
